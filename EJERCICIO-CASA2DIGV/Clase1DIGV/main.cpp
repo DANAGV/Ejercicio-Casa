@@ -29,6 +29,7 @@ void display(void)   // Creamos la funcion donde se dibuja
 	//glBegin(GL_LINE_LOOP);
 	//glBegin(GL_TRIANGLES);
 	//glBegin(GL_QUADS);
+	//glBegin(GL_POLYGON);
 
 	//CORAZON
 	glBegin(GL_TRIANGLES);//curva
